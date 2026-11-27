@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Generated outputs
+outputs/generations/*.png
+outputs/outlines/*.png
+outputs/outlines/*.svg
+outputs/experiments/*.csv
+
+# Environment configs
+.env
