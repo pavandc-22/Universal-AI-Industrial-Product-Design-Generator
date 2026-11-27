@@ -1,0 +1,4 @@
+timestamp,product_id,product_name,category,condition,seed,clip_score,ssim_score,features_verified_rate,overall_design_fidelity,generation_time_sec,engine_mode,is_demonstration_mode,image_path
+1794120771,IND-005,Spur Gear 36T,Mechanical Power Transmission,Condition_A_Naive,42,0.83,0.1663,100.0,92.4,0.074,Parametric_Procedural_PBR_Engine,True,C:\Users\james\prompt_en_project\outputs\generations\spur_gear_Condition_A_Naive_42_1794120771097.png
+1794120771,IND-005,Spur Gear 36T,Mechanical Power Transmission,Condition_B_LLM_Prompt,42,0.83,0.1438,100.0,92.4,0.072,Parametric_Procedural_PBR_Engine,True,C:\Users\james\prompt_en_project\outputs\generations\spur_gear_Condition_B_LLM_Prompt_42_1794120771241.png
+1794120771,IND-005,Spur Gear 36T,Mechanical Power Transmission,Condition_C_LLM_ControlNet,42,0.91,0.1983,100.0,96.0,0.042,Parametric_Procedural_PBR_Engine,True,C:\Users\james\prompt_en_project\outputs\generations\spur_gear_Condition_C_LLM_ControlNet_42_1794120771373.png
