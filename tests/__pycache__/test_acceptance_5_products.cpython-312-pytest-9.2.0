@@ -1,0 +1,268 @@
+Ë
+   …ÉNWÙülŒã            	       óê   — d Z ddlZddlmc mZ ddl Z ddlm	Z	 ddl
+m
+Z
+ e j                  d„ «       Z
+dd ddd	œd
+d
+d
+dd	œd
+dd
+dd	œddddd	œddddd	œgZe j                  j!                  de«      d„ «       Zy)aW  
+Final Acceptance Test Suite for the 5 Mandatory Universal Product Types:
+1. Deep-groove ball bearing
+2. Mechanical gear
+3. Industrial centrifugal pump
+4. Custom electrical enclosure
+5. Unfamiliar industrial product (not predefined in system)
+
+Verifies independent interpretation, distinct geometry, prompts, image generation, and evaluation.
+é    N)ÚPath©ÚIndustrialDesignPlatformServicec                  ó   — t        «       S )Nr   © ó    úDC:\Users\james\prompt_en_project\tests\test_acceptance_5_products.pyÚ servicer
+      s
+   € ä
+*Ó
+,Ð,r   Ú bearingz½Single-row deep groove ball bearing with 120 mm outer diameter, 45 mm inner bore, 20 mm width, hardened chrome steel construction and stamped steel cage with 8 precision ground steel balls.Útoroidal)ÚtypeÚinputÚexpected_name_keywordÚexpected_shapeÚgearzsCreate a custom mechanical gear with 36 teeth, 100 mm outer diameter, 25 mm central bore and hardened steel finish.ztoothed circular diskÚpumpz¼Generate an industrial centrifugal water pump with a stainless steel body, circular inlet, side outlet, four mounting holes, compact design and a professional product catalogue appearance.z&spiral volute with cylindrical housingÚ	enclosurez·Wall-mount industrial electrical enclosure box, 300 mm x 250 mm x 150 mm, 304 stainless steel with continuous polyurethane door gasket, quarter-turn key latch, external mounting feet.zrectangular prismÚ
+unfamiliarz¬Cryogenic liquid nitrogen vaporizing heat-sink module with micro-channel serpentine fins, vacuum jacket, 220 mm width, 140 mm height, electropolished titanium alloy finish.Ú	cryogenicÚcompoundÚitemc           	      ó>  — |d   }| j                  |«      }d }||u}|s™t        j                  d|fd||f«      dt         j                  «       v st        j
+                  |«      rt        j                  |«      ndt        j                  |«      dœz  }dd |iz  } t        t        j                  | «      «      ‚d x}}|d   }|d	   }	|	j                  }
+ |
+«       }
+||
+v }|s”t        j                  d
+|fd
+||
+f«      t        j                  |«      t        j                  |	«      t        j                  |
+«      t        j                  |
+«      dœz  }d
+d|iz  }
+t        t        j                  |
+«      «      ‚d x}x}x}	x}
+}
+|d   d   }d }	||	u}|slt        j                  d|fd||	f«      t        j                  |«      t        j                  |	«      dœz  }dd|iz  }t        t        j                  |«      «      ‚d x}x}}	| j                  }|j                  }	 |	|«      }d}||u }|st        j                  d|fd||f«      dt         j                  «       v st        j
+                  | «      rt        j                  | «      ndt        j                  |«      t        j                  |	«      dt         j                  «       v st        j
+                  |«      rt        j                  |«      ndt        j                  |«      t        j                  |«      dœz  }
+dd|
+iz  }t        t        j                  |«      «      ‚d x}x}	x}x}}| j                  |«      }d}||v }|s™t        j                  d
+|fd||f«      t        j                  |«      dt         j                  «       v st        j
+                  |«      rt        j                  |«      nddœz  }dd |iz  } t        t        j                  | «      «      ‚d x}}d }||v }|s™t        j                  d
+|fd||f«      t        j                  |«      dt         j                  «       v st        j
+                  |«      rt        j                  |«      nddœz  }dd |iz  } t        t        j                  | «      «      ‚d x}}|d   }|d   }	|	j                  }
+ |
+«       }
+||
+v }|s”t        j                  d
+|fd
+||
+f«      t        j                  |«      t        j                  |	«      t        j                  |
+«      t        j                  |
+«      dœz  }d
+d|iz  }
+t        t        j                  |
+«      «      ‚d x}x}x}	x}
+}
+| j                  |«      }|d!   }d }	||	u}|slt        j                  d|fd||	f«      t        j                  |«      t        j                  |	«      dœz  }dd|iz  }t        t        j                  |«      «      ‚d x}x}}	|d"   }|j                  }d#}
+||
+k(  }|s€t        j                  d$|fd%||
+f«      t        j                  |«      t        j                  |«      t        j                  |
+«      d&œz  }d'd(|iz  }t        t        j                  |«      «      ‚d x}x}x}}
+|d)   }|j                  }d#}
+||
+k(  }|s€t        j                  d$|fd%||
+f«      t        j                  |«      t        j                  |«      t        j                  |
+«      d&œz  }d'd(|iz  }t        t        j                  |«      «      ‚d x}x}x}}
+d*}|d+   }	||	v }|slt        j                  d
+|fd,||	f«      t        j                  |«      t        j                  |	«      dœz  }dd|iz  }t        t        j                  |«      «      ‚d x}x}}	| j                  |||d!   d-d.d/¬0«      }t!        |«      }d.}
+||
+k(  }|söt        j                  d$|fd1||
+f«      d2t         j                  «       v st        j
+                  t         «      rt        j                  t         «      nd2d3t         j                  «       v st        j
+                  |«      rt        j                  |«      nd3t        j                  |«      t        j                  |
+«      d4œz  }d'd(|iz  }t        t        j                  |«      «      ‚d x}x}}
+|d5   }|d6   }|j                  }d#}||k(  }	|	s­t        j                  d$|	fd7||f«      d8t         j                  «       v st        j
+                  |«      rt        j                  |«      nd8t        j                  |«      t        j                  |«      d9œz  } d:d;| iz  }t        t        j                  |«      «      ‚d x}x}	}|d<   }t#        |«      }	|	j$                  }
+ |
+«       }
+|
+s½d=d>t         j                  «       v st        j
+                  t"        «      rt        j                  t"        «      nd>t        j                  |«      t        j                  |	«      t        j                  |
+«      t        j                  |
+«      d?œz  }t        t        j                  |«      «      ‚d x}x}	x}
+}
+| j'                  ||||d)   ¬@«      }|dA   }dB}	||	kD  }|slt        j                  dC|fdD||	f«      t        j                  |«      t        j                  |	«      dœz  }dd|iz  }t        t        j                  |«      «      ‚d x}x}}	|dE   }dF}	||	k\  }|slt        j                  dG|fdH||	f«      t        j                  |«      t        j                  |	«      dœz  }dd|iz  }t        t        j                  |«      «      ‚d x}x}}	|dI   }t!        |«      }	dJ}|	|k\  }
+|
+sÉt        j                  dG|
+fdK|	|f«      d2t         j                  «       v st        j
+                  t         «      rt        j                  t         «      nd2t        j                  |«      t        j                  |	«      t        j                  |«      dLœz  }dMdN|iz  }t        t        j                  |«      «      ‚d x}x}	x}
+}dO}|dP   }	||	v }|slt        j                  d
+|fd,||	f«      t        j                  |«      t        j                  |	«      dœz  }dd|iz  }t        t        j                  |«      «      ‚d x}x}}	y )QNr   )úis not)z%(py0)s is not %(py3)sÚspec)Úpy0Úpy3zassert %(py5)sÚpy5r   Úproduct_name)Úin)zD%(py1)s in %(py8)s
+{%(py8)s = %(py6)s
+{%(py6)s = %(py4)s.lower
+}()
+})Úpy1Úpy4Úpy6Úpy8zassert %(py10)sÚpy10ÚmaterialÚ
+base_material)z%(py1)s is not %(py4)s)r    r!   zassert %(py6)sr"   T)Úis)zp%(py7)s
+{%(py7)s = %(py4)s
+{%(py4)s = %(py2)s
+{%(py2)s = %(py0)s.parser
+}.validate_spec
+}(%(py5)s)
+} is %(py10)sr
+   )r   Úpy2r!   r   Úpy7r$   zassert %(py12)sÚpy12Úpositive_prompt)z%(py1)s in %(py3)sÚ prompts)r    r   Únegative_promptÚmodelÚedge_map)é   r0   )ú==)z,%(py3)s
+{%(py3)s = %(py1)s.size
+} == %(py6)s)r    r   r"   zassert %(py8)sr#   Ú
+cad_drawingz<svgÚsvg_code)z%(py1)s in %(py4)sé*   é   ÚCondition_C_LLM_ControlNet)r   r,   Ú
+outline_modelÚseedÚnum_candidatesÚ	condition)z0%(py3)s
+{%(py3)s = %(py0)s(%(py1)s)
+} == %(py6)sÚlenÚ results)r   r    r   r"   r   Úimage)z,%(py2)s
+{%(py2)s = %(py0)s.size
+} == %(py5)sÚimg)r   r(   r   zassert %(py7)sr)   Úpathz_assert %(py8)s
+{%(py8)s = %(py6)s
+{%(py6)s = %(py4)s
+{%(py4)s = %(py0)s(%(py2)s)
+}.exists
+}()
+}r   )r   r(   r!   r"   r#   )r=   r   r,   Úreference_imageÚ
+clip_scoreg        )Ú>)z%(py1)s > %(py4)sÚoverall_design_fidelityg      N@)ú>=)z%(py1)s >= %(py4)sÚfeature_checklisté   )z0%(py4)s
+{%(py4)s = %(py0)s(%(py2)s)
+} >= %(py7)s)r   r(   r!   r)   zassert %(py9)sÚpy9zCRITICAL ENGINEERING NOTICEÚdimensional_accuracy_disclaimer)Úparse_specificationÚ
+@pytest_arÚ_call_reprcompareÚ@py_builtinsÚlocalsÚ_should_repr_global_nameÚ	_safereprÚAssertionErrorÚ_format_explanationÚlowerÚparserÚ
+validate_specÚgenerate_promptsÚgenerate_geometry_and_outlinesÚsizeÚgenerate_designr;   r   ÚexistsÚevaluate_candidate)r
+   r   Ú
+user_inputr   Ú
+@py_assert2Ú
+@py_assert1Ú
+@py_format4Ú
+@py_format6Ú
+@py_assert0Ú
+@py_assert3Ú
+@py_assert5Ú
+@py_assert7Ú
+@py_format9Ú@py_format11Ú
+@py_format5Ú
+@py_format7Ú
+@py_assert6Ú
+@py_assert9Ú
+@py_assert8Ú@py_format13r,   ÚoutlinesÚ
+@py_assert4r<   Ú
+gen_resultr>   Ú
+@py_format8Ú
+eval_resultÚ@py_format10s                                r	   Ú&test_end_to_end_acceptance_per_productrr   5   sd  € àg‘€Jð ×
+&Ñ
+& zÓ
+2€DØÐˆ4tÐ
+××Õˆ4t×××××Ñˆ4××Óˆ4××Ôt××××××ÑØ
+Ð'Ñ
+(ÐH¨D°Ñ,@ÐHÐ,@×,FÑ,FÐHÑ,FÓ,HÐHÐ
+(Ð,HÐ
+H×H×HÕHÐ
+(Ð,H×H×HÓHÐ
+(×H×HÒHÐ,@×H×HÒHÐ,F×H×HÒHÐ,H×H×H×H×H×H×H×HØ
+
+Ñ
+˜OÑ
+,Ð8°DÐ8Ð
+,°DÐ
+8×8×8Õ8Ð
+,°D×8×8Ó8Ð
+,×8×8Ò8°D×8×8×8×8×8×8Ó8Ø
+>‰>Ð5ˆ>×
+'Ñ
+'Ð5Ñ
+'¨Ó
+-Ð5°Ð5Ð
+-°Ð
+5×5×5Ö5Ð
+-°×5×5×5×5×5Ñ5ˆ7×5×5Ó5ˆ7×5×5Ô5ˆ>×5×5Ò5Ð
+'×5×5×5×5×5Ð5¨×5×5Ó5¨×5×5Ô5Ð
+-×5×5Ò5°×5×5×5×5×5×5×5ð ×&Ñ& tÓ,€GØ
+Ð'Ð
+  Ð
+'×'×'Õ'Ð
+  ×'×'Ó'Ð
+×'×'×'×'×'Ð'  ×'×'Ó'  ×'×'×'×'×'×'Ó'Ø
+Ð'Ð
+  Ð
+'×'×'Õ'Ð
+  ×'×'Ó'Ð
+×'×'×'×'×'Ð'  ×'×'Ó'  ×'×'×'×'×'×'Ó'Ø
+Ð'Ñ
+(ÐN¨GÐ4EÑ,FÐNÐ,F×,LÑ,LÐNÑ,LÓ,NÐNÐ
+(Ð,NÐ
+N×N×NÕNÐ
+(Ð,N×N×NÓNÐ
+(×N×NÒNÐ,F×N×NÒNÐ,L×N×NÒNÐ,N×N×N×N×N×N×N×Nð ×5Ñ5°dÓ;€HØ
+GÑ
+Ð( DÐ(Ð
+ DÐ
+(×(×(Õ(Ð
+ D×(×(Ó(Ð
+×(×(Ò( D×(×(×(×(×(×(Ó(Ø
+JÑ
+Ð2Ð
+×
+$Ñ
+$Ð2¨
+Ð2Ð
+$¨
+Ñ
+2×2×2Õ2Ð
+$¨
+×2×2Ó2Ð
+×2×2Ò2Ð
+$×2×2Ò2¨
+×2×2×2×2×2×2Õ2Ø
+MÑ
+"Ð5Ð
+"×
+'Ñ
+'Ð5¨:Ð5Ð
+'¨:Ñ
+5×5×5Õ5Ð
+'¨:×5×5Ó5Ð
+"×5×5Ò5Ð
+'×5×5Ò5¨:×5×5×5×5×5×5Õ5Ø
+Ð)X˜jÑ)Ð)ˆ6Ð)Ð
+)×)×)Õ)ˆ6Ð)×)×)Ó)ˆ6×)×)Ò)Ð)×)×)×)×)×)×)Ó)ð ×%Ñ%Ø
+ØØ˜wÑ'Ø
+ØØ.ð
+ &ó  €Gô ˆw‹<Ð˜1Ðˆ<˜1Ñ
+××Õˆ<˜1×××××ÑŒ3××ÓŒ3×××××Òˆw××Óˆw××Ôˆ<××Ò˜1××××××ÓØ˜‘€JØ
+WÑ
+€CØ
+8‰8Ð!zÐ!ˆ8zÑ
+!×!×!Õ!ˆ8z×!×!×!×!×!Ñ!ˆ3×!×!Ó!ˆ3×!×!Ô!ˆ8×!×!Ò!z×!×!×!×!×!×!Ó!Ø˜6Ñ"Ð,Œ4Ð"Ó
+#Ð,Ð
+#×
+*Ñ
+*Ð,Ñ
+*Ó
+,Ð,Ñ
+,×,×,×,×,Õ,Œ4×,×,Ó,Œ4×,×,Ô,Ð"×,×,Ò,Ð
+#×,×,Ò,Ð
+*×,×,Ò,Ð
+,×,×,×,×,×,Ö,ð ×,Ñ,ØØ
+ØØ  Ñ/ð	 -ó €Kð |Ñ
+$Ð* sÐ*Ð
+$ sÑ
+*×*×*Õ*Ð
+$ s×*×*Ó*Ð
+$×*×*Ò* s×*×*×*×*×*×*Ó*Ø
+Ð0Ñ
+1Ð9°TÐ9Ð
+1°TÑ
+9×9×9Õ9Ð
+1°T×9×9Ó9Ð
+1×9×9Ò9°T×9×9×9×9×9×9Ó9ØÐ.Ñ/Ð5Œ3Ð/Ó
+0Ð5°AÐ5Ð
+0°AÑ
+5×5×5Õ5Ð
+0°A×5×5×5×5×5Ñ5Œ3×5×5Ó5Œ3×5×5Ô5Ð/×5×5Ò5Ð
+0×5×5Ò5°A×5×5×5×5×5×5Õ5Ø
+(ÐZ¨KÐ8YÑ,ZÐZÐ
+(Ð,ZÐ
+Z×Z×ZÕZÐ
+(Ð,Z×Z×ZÓZÐ
+(×Z×ZÒZÐ,Z×Z×Z×Z×Z×Z×ZÔZr   )Ú __doc__ÚbuiltinsrL   Ú_pytest.assertion.rewriteÚ	assertionÚ rewriterJ   ÚpytestÚ pathlibr   Ú
+backend.apir   Ú fixturer
+   ÚFIVE_TEST_REQUESTSÚmarkÚ
+parametrizerr   r    r   r	   Ú<module>r      sÎ   ðñ	÷ „ ƒ
+Ý Ý 7à ‡ñ-ó ð-ð
+ ð QØ!*Ø$ñ	ð ð GØ!'Ø1ñ	ð ð PØ!'ØBñ	ð ð KØ!,Ø-ñ	ð ð @Ø!,Ø$ñ	ð3Ð ðB ‡×Ñ˜Ð!3Ó4ñ0[ó 5ñ0[r   
